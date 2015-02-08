@@ -1,0 +1,30 @@
+.container {
+  background-color: purple;
+  text-align: center;
+  height: 1000px;
+  width: 80%;
+  margin: auto;
+  color: white;
+  overflow: hidden;
+}
+#bg {
+  background: url("http://static.rogerebert.com/uploads/review/primary_image/reviews/whiplash-2014/hero_Whiplash-2014-1.jpg") repeat-y;
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
+.Pos-f {
+  position: fixed;
+}
+p {
+  padding: 0 16px;
+  text-align: justify;
+}
+.C-w {
+    color: white;
+}
+body {
+  background: #ccc;
+}
